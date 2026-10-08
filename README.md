@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖼️ Aurora Gallery
+#  Aurora Gallery
 
 **A server-side rendered fine art e-commerce platform with a glassmorphism UI, built on Node.js, Express, and EJS.**
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 **Aurora Gallery** is a full-stack e-commerce demo for a fine art gallery. Pages are rendered on the server with EJS, and the code follows a clean **MVC architecture** with dynamic routing, a session-backed shopping cart, and a custom frosted-glass UI written in plain CSS with no frameworks.
 
